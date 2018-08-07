@@ -3,4 +3,4 @@ class Song
 end
 
 radioactive = Song.new
-radioactive.artist = "Imagine Dragons"
+radioactive.artist = imagine_dragons
