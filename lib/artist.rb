@@ -5,6 +5,3 @@ class Artist
   #   @name = name
   # end
 end
-
-imagine_dragons = Artist.new
-imagine_dragons.name = "Imagine Dragons"
