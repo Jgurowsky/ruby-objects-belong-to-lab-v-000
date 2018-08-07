@@ -7,5 +7,5 @@ end
 # radioactive = Song.new
 # radioactive.artist = imagine_dragons
 
-radioactive.artist.name
+# radioactive.artist.name
 # => "Imagine Dragons"
